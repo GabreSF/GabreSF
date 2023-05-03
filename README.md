@@ -18,4 +18,4 @@
   <img align="center" alt="cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabreSF&hide_progress=true)](https://github.com/GabreSF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabreSF&compact=true)](https://github.com/GabreSF/github-readme-stats)
